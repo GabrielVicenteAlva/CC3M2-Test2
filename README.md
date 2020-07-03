@@ -1,4 +1,4 @@
-# CC3M2-Test1
+# CC3M2-Test2
 Se requiere Matplotlib:
 ```console
 $ sudo apt-get install python3-matplotlib
